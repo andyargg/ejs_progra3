@@ -1,0 +1,47 @@
+[
+    {
+        "id": 8136,
+        "nombre": "andy",
+        "clave": "123",
+        "mail": "andy@gmail.com",
+        "fechaRegistro": "2024-09-24 20:57:28",
+        "imagen": {
+            "name": "archivo.png",
+            "full_path": "archivo.png",
+            "type": "image\/png",
+            "tmp_name": "C:\\xampp\\tmp\\php6673.tmp",
+            "error": 0,
+            "size": 2032
+        }
+    },
+    {
+        "id": 799,
+        "nombre": "Olaf",
+        "clave": "342",
+        "mail": "olaf@gmail.com",
+        "fechaRegistro": "2024-09-24 21:20:47",
+        "imagen": {
+            "name": "archivo.png",
+            "full_path": "archivo.png",
+            "type": "image\/png",
+            "tmp_name": "C:\\xampp\\tmp\\phpBD68.tmp",
+            "error": 0,
+            "size": 2032
+        }
+    },
+    {
+        "id": 3265,
+        "nombre": "andy",
+        "clave": "123",
+        "mail": "mail@gmail",
+        "fechaRegistro": "2024-09-25 15:33:32",
+        "imagen": {
+            "name": "Captura.PNG",
+            "full_path": "Captura.PNG",
+            "type": "image\/png",
+            "tmp_name": "C:\\xampp\\tmp\\php9A3A.tmp",
+            "error": 0,
+            "size": 91871
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 847,
+        "codigoBarra": "2",
+        "nombre": "aceite",
+        "tipo": "b",
+        "stock": 160,
+        "precio": "120"
+    },
+    {
+        "id": 4055,
+        "codigoBarra": "3",
+        "nombre": "carbon",
+        "tipo": "b",
+        "stock": 120,
+        "precio": "120"
+    },
+    {
+        "id": 8126,
+        "codigoBarra": "19",
+        "nombre": "jabon",
+        "tipo": "higiene",
+        "stock": 59,
+        "precio": "20"
+    }
+]
